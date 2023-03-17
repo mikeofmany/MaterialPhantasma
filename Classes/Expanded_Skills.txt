@@ -1,0 +1,40 @@
+Notes as much for the DM as the player so here we go on Skills.
+Common Auto, Racial language is auto.
+
+Strength
+
+    Athletics
+
+Dexterity
+
+    Acrobatics
+    Sleight of Hand
+    Stealth
+    Pilot (Mechanical)
+
+Intelligence
+
+    Arcana
+    History
+    Investigation
+    Nature
+    Religion
+    Languages
+
+Wisdom
+
+    Animal Handling
+    Insight
+    Medicine
+    Perception
+    Survival
+    Planar Navigation
+    Auto-Mechanica Repair
+
+Charisma
+
+    Deception
+    Intimidation
+    Performance
+    Persuasion
+    Pilot (Living)
